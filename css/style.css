@@ -1,0 +1,49 @@
+.abc {
+  max-width: 1000px;
+  max-height: 1500px;
+  padding: 100px;
+}
+
+Body {
+  background-color: hsl(0, 0%, 95%);
+  font-family: "Lexend Deca";
+  font-size: 15px;
+}
+
+.btn {
+  border-radius: 25%;
+  margin: 0 0 50px 20px;
+}
+
+
+h1 {
+  color: hsl(0, 0%, 95%);
+  padding: 0 0 40px 20px;
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  padding: 0 20px 40px 20px;
+  font-family: "Lexend Deca";
+}
+
+
+
+/* IMAGES */
+
+.img {
+  padding: 40px 0 40px 20px;
+}
+
+.lux {
+  background-color: hsl(179, 100%, 13%);
+
+}
+
+.sedan {
+  background-color: hsl(31, 77%, 52%);
+}
+
+.suv {
+  background-color: hsl(184, 100%, 22%)
+}
